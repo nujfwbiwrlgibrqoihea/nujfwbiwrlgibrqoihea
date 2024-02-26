@@ -1,11 +1,9 @@
-- 👋 Hi, I’m a gibberish username
+- 👋 Hi, I’m Muhammad
 - 🌱 I’m currently learning python and cpp
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me:
 - Email: nolodein@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
-- I am 12
+- Pronouns: He/Him
 
 <!---
 nujfwbiwrlgibrqoihea/nujfwbiwrlgibrqoihea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
